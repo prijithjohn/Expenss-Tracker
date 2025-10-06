@@ -51,9 +51,6 @@ Expenss-Tracker/
 │
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## ⚙️ Installation & Setup
@@ -75,6 +72,8 @@ npm start
 
 The app will open at http://localhost:3000
 
+---
+
 🧪 Running the Project
 
 Start MongoDB (if not already running)
@@ -82,6 +81,8 @@ Run the backend server
 Run the frontend in another terminal
 Visit http://localhost:3000
  to use the app.
+ 
+---
 
 ✨ Future Enhancements
 
